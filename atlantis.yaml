@@ -1,0 +1,6 @@
+version: 3
+projects:
+  - name: a
+    dir: a
+  - name: b
+    dir: b
